@@ -2,7 +2,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Brian Clark'
-SITENAME = u'http://bsclark.github.io'
+SITENAME = u'http://bsclark75.github.io'
 SITEURL = ''
 
 PATH = 'content'
