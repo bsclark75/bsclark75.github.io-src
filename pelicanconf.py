@@ -2,8 +2,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Brian Clark'
-SITENAME = u'http://bsclark75.github.io'
-SITEURL = ''
+SITENAME = u'Brian Clark Github page'
+SITEURL = 'http://bsclark75.github.io'
 
 PATH = 'content'
 
